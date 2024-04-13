@@ -1,1 +1,1 @@
-# This is my journey about web development
+# This is my mini project making a website sidebar
